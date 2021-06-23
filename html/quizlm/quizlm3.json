@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Quién fue el suegro de Nefi?",
+"OPC1":"Jose",
+"OPC2":"Zoram",
+"OPC3":"Sedequias",
+"OPC4":"Ismael",
+"RESP":"Ismael"
+},
+{
+"pregunta":"Ayudo a alma hijo a destruir la iglesia, fue visitado por un angel y se arrepintio sirviendo una misión de 14 años",
+"OPC1":"Helamán",
+"OPC2":"Ammón",
+"OPC3":"Mosíah",
+"OPC4":"Alma",
+"RESP":"Ammón"
+},
+{
+"pregunta":"¿Qué edad tenía Mormón cuando se hizo cargo de los ejércitos nefitas?",
+"OPC1":"14",
+"OPC2":"15",
+"OPC3":"16",
+"OPC4":"17",
+"RESP":"16"
+},
+{
+"pregunta":"Fue el último rey jaredita y último sobreviviente de la nación jaredita?",
+"OPC1":"Chemish",
+"OPC2":"Corianton",
+"OPC3":"Nehor",
+"OPC4":"Coriámtumr",
+"RESP":"Coriámtumr"
+},
+{
+"pregunta": "En el libro de mosiah, leemos acerca de un rey justo que enseño a la gente desde una torre, el fue?",
+"OPC1":"Nefi",
+"OPC2":"Benjamín",
+"OPC3":"Sam",
+"OPC4":"Mosíah",
+"RESP":"Benjamín"
+},
+{
+"pregunta":"De los siguientes, quien no fue un hijo de Mosiah?",
+"OPC1":"Aaron",
+"OPC2":"Enós",
+"OPC3":"Omner",
+"OPC4":"Himni",
+"RESP":"Enós"
+},
+{
+"pregunta":"Quién fue el primer hijo de el hermano de Jared?",
+"OPC1":"Kohor",
+"OPC2":"Jared",
+"OPC3":"Pagag",
+"OPC4":"Mahonri",
+"RESP":"Pagag"
+},
+{
+"pregunta":"En que lugar se mostro jesucristo a la gente de nefi?",
+"OPC1":"Zarahemla",
+"OPC2":"Tierra de la abundancia",
+"OPC3":"Desolación",
+"OPC4":"El Norte",
+"RESP":"Tierra de la abundancia"
+},
+{
+"pregunta":"Quien fue el último profeta en escribir en el Libro de Mormón?",
+"OPC1":"Mormón",
+"OPC2":"Moroni",
+"OPC3":"Mosíah",
+"OPC4":"Helmán",
+"RESP":"Moroni"
+},
+{
+"pregunta":"Sufrió la muerte por fuego y convirtio a una persona que despues seria un profeta",
+"OPC1":"Alma",
+"OPC2":"Noe",
+"OPC3":"Abinadí",
+"OPC4":"Corianton",
+"RESP":"Abinadí"
+}
+]

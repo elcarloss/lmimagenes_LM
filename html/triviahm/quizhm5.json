@@ -1,0 +1,91 @@
+[
+{
+"pregunta":"Las ruinas de Monte Albán se localizan en",
+"OPC1":"Guerrero",
+"OPC2":"Chiapas",
+"OPC3":"Veracruz",
+"OPC4":"Oaxaca",
+"RESP":"Oaxaca"
+},
+{
+"pregunta":"Las tres ciudades más grandes y pobladas del país son:",
+"OPC1":"Ciudad de México, Guadalajara y Monterrey",
+"OPC2":"Ciudad de México, Guadalajara y Torreón",
+"OPC3":"Ciudad de México, Puebla y Toluca",
+"OPC4":"Ciudad de México, Toluca y Monterrey",
+"RESP":"Ciudad de México, Guadalajara y Monterrey"
+},
+{
+"pregunta":"¿En qué estado de la República se encuentra la ciudad de Guadalajara?",
+"OPC1":"Estado de México",
+"OPC2":"Jalisco",
+"OPC3":"Nuevo León",
+"OPC4":"Sonora",
+"RESP":"Jalisco"
+},
+{
+"pregunta":"Proponia la supresión de los fueros eclesiásticos y militares:",
+"OPC1":"Ley Lerdo",
+"OPC2":"Ley Juárez",
+"OPC3":"Ley del Talión",
+"OPC4":"Ley Lafragua",
+"RESP":"Ley Lerdo"
+},
+{
+"pregunta":"Composición musical característica de la época revolucionaria",
+"OPC1":"El vals",
+"OPC2":"El corrido",
+"OPC3":"El jarabe tapatío",
+"OPC4":"El mariachi",
+"RESP":"El corrido"
+},
+{
+"pregunta":"El tema dominante del himno nacional mexicano es:",
+"OPC1":"La celebración de la unidad latinoamericana",
+"OPC2":"Una exhortación a la guerra defensiva",
+"OPC3":"La exaltación del mestizaje en México",
+"OPC4":"Un llamado a la paz internacional",
+"RESP":"Una exhortación a la guerra defensiva"
+},
+{
+"pregunta":"El águila y la serpiente que aparecen en el escudo nacional mexicano, incluido en la franja blanca de la bandera:",
+"OPC1":"Figuraban en el escudo de armas de un conquistador español",
+"OPC2":"Son una respuesta nacionalista al águila estadounidense",
+"OPC3":"Evocan una leyenda prehispánica",
+"OPC4":"Aparecían en el estandarte de Miguel Hidalgo y Costilla",
+"RESP":"Evocan una leyenda prehispánica"
+},
+{
+"pregunta":"¿Cuántos estados tiene la República Mexicana?",
+"OPC1":"30",
+"OPC2":"29",
+"OPC3":"31",
+"OPC4":"32",
+"RESP":"31"
+},
+{
+"pregunta":"El estado de la República de mayor extensión territorial es:",
+"OPC1":"Jalisco",
+"OPC2":"Sonora",
+"OPC3":"Nuevo León",
+"OPC4":"Chihuahua",
+"RESP":"Chihuahua"
+},
+{
+"pregunta":"Partido político integrado por la clase alta de la sociedad simpatizante con las ideas monarquistas y que establecían que el poder político debía estar en un gobierno oligarquico.",
+"OPC1":"Centralista",
+"OPC2":"Federalista",
+"OPC3":"Liberal",
+"OPC4":"Ninguno de los anteriores",
+"RESP":"Centralista"
+},
+{
+"pregunta":"En la Batalla del 5 de Mayo en Puebla triunfó el ejército mexicano bajo las órdenes de:",
+"OPC1":"Juárez",
+"OPC2":"Zaragoza",
+"OPC3":"Díaz",
+"OPC4":"Santa Anna",
+"RESP":"Zaragoza"
+}
+]
+

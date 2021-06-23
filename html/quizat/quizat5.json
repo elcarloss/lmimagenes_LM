@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Que les fue prohibido a los israelitas hacer en la tierra prometida?",
+"OPC1":"Comer",
+"OPC2":"Hacer amigos",
+"OPC3":"Casarse con los nativos",
+"OPC4":"Pelear",
+"RESP":"Casarse con los nativos"
+},
+{
+"pregunta":"Porqué reprendio Nathan a David",
+"OPC1":"No quiso ir a la guerra",
+"OPC2":"Su adulterio con Betsabé",
+"OPC3":"Por su harém",
+"OPC4":"Por traicionar a samuel",
+"RESP":"Su adulterio con Betsabé"
+},
+{
+"pregunta":"Que trae David a Jerusalén para bendecir a la ciudad?",
+"OPC1":"El Arca de la Alianza",
+"OPC2":"Tesoros de otras ciudades",
+"OPC3":"Un Arpa",
+"OPC4":"Los Huesos de Abraham",
+"RESP":"El Arca de la Alianza"
+},
+{
+"pregunta":"Quién es Eliseo?",
+"OPC1":"Un Mago",
+"OPC2":"Un Guerrero",
+"OPC3":"Un Rey",
+"OPC4":"El aprendiz y sucesor de Elías",
+"RESP":"El aprendiz y sucesor de Elías"
+},
+{
+"pregunta": "Que hace el Rey Salomón en Israel?",
+"OPC1":"Acaba con el Hambre",
+"OPC2":"Erige un Templo en Jerusalén",
+"OPC3":"Mata a su Padre",
+"OPC4":"Se vuelve loco",
+"RESP":"Erige un Templo en Jerusalén"
+},
+{
+"pregunta":"Que le pide el Rey Salomón a Dios",
+"OPC1":"Riquezas",
+"OPC2":"Paz para Israel",
+"OPC3":"Una Esposa",
+"OPC4":"Sabiduría",
+"RESP":"Sabiduría"
+},
+{
+"pregunta":"Quién escribio - El señor mi pastor es, nada me faltará -?",
+"OPC1":"David",
+"OPC2":"Salomón",
+"OPC3":"Isías",
+"OPC4":"Jeremías",
+"RESP":"David"
+},
+{
+"pregunta":"Jacob estuvo de acuerdo en servir a Labán 7 años por?",
+"OPC1":"Lea",
+"OPC2":"Raquel",
+"OPC3":"Rebeca",
+"OPC4":"Sara",
+"RESP":"Raquel"
+},
+{
+"pregunta":"Esposa de Moisés",
+"OPC1":"Séfora",
+"OPC2":"Miriam",
+"OPC3":"Raquel",
+"OPC4":"Lea",
+"RESP":"Séfora"
+},
+{
+"pregunta":"Profeta del Antiguo Testamento que se caso con una prostituta",
+"OPC1":"Isaías",
+"OPC2":"Daniel",
+"OPC3":"Oseas",
+"OPC4":"Jeremías",
+"RESP":"Oseas"
+}
+]

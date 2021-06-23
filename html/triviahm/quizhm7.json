@@ -1,0 +1,91 @@
+[
+{
+"pregunta":"Líderes de la Independencia que lograron la Consumación de nuestra Independencia?",
+"OPC1":"Agustín de Iturbide y Vicente Guerrero",
+"OPC2":"Miguel Hidalgo y Morelos",
+"OPC3":"Benito Juárez y Hermenegildo Galeana",
+"OPC4":"Santa Anna y Porfirio Díaz",
+"RESP":"Agustín de Iturbide y Vicente Guerrero"
+},
+{
+"pregunta":"Documento proclamado por Santa Anna que desconocia al emperador Iturbide:",
+"OPC1":"Constitución de Cádiz",
+"OPC2":"Plan de Casa Mata",
+"OPC3":"Plan de Iguala",
+"OPC4":"Plan de Iturbide",
+"RESP":"Plan de Casa Mata"
+},
+{
+"pregunta":"Objetivo de la política económica llamada desarrollo estabilizador durante el gobierno de Adolfo Ruiz Cortines:",
+"OPC1":"Subir los precios de los alimentos y elevar los salarios",
+"OPC2":"Evitar la corrupción",
+"OPC3":"Evitar el descontrol de los precios de las mercancias",
+"OPC4":"Reprimir las manifestaciones",
+"RESP":"Evitar el descontrol de los precios de las mercancias"
+},
+{
+"pregunta":"Al finalizar la segunda intervención francesa en México se impuso con la anuencia de los conservadores a:",
+"OPC1":"Napoleón III",
+"OPC2":"Maximiliano",
+"OPC3":"Felipe II",
+"OPC4":"Carlos V",
+"RESP":"Maximiliano"
+},
+{
+"pregunta":"El clero y los Conservadores se levantaron en armas contra la Constitución de 1857 de la mano de:",
+"OPC1":"Álvarez",
+"OPC2":"Juárez",
+"OPC3":"Zuloaga",
+"OPC4":"Ninguna de las anteriores",
+"RESP":"Zuloaga"
+},
+{
+"pregunta":"Organizaron la convención de Londres para invadir a México",
+"OPC1":"Francia, Prusia y Austria",
+"OPC2":"Francia, Inglaterra y España",
+"OPC3":"Francia, Estados Unidos y Portugal",
+"OPC4":"Francia, Inglaterra y E.U.A",
+"RESP":"Francia, Inglaterra y España"
+},
+{
+"pregunta":"Los mayas se consideran los grandes científicos de Mesoamérica porque fueron:",
+"OPC1":"Magnificos Agricultores",
+"OPC2":"Médicos destacados",
+"OPC3":"Grandes Astrólogos y Matemáticos",
+"OPC4":"Inventores",
+"RESP":"Grandes Astrólogos y Matemáticos"
+},
+{
+"pregunta":"La escritura mexica y maya fue:",
+"OPC1":"Pictográfica como las pinturas rupestres",
+"OPC2":"Ideográfica con representaciones silábicas fonéticas",
+"OPC3":"Fonética muy avanzada",
+"OPC4":"Ninguna de las anteriores",
+"RESP":"Ideográfica con representaciones silábicas fonéticas"
+},
+{
+"pregunta":"Gran Militar vencedor de la Batalla del Dos de Abril contra los franceses:",
+"OPC1":"Ignacio Zaragoza",
+"OPC2":"Porfirio Díaz",
+"OPC3":"Jose María Morelos y Pavón",
+"OPC4":"Victoriano Huerta",
+"RESP":"Porfirio Díaz"
+},
+{
+"pregunta":"Quien fue el ùnico mexicano en invadir militarmente a Estados Unidos",
+"OPC1":"Antonio López de Santa Anna",
+"OPC2":"Ignacio Zaragoza",
+"OPC3":"Porfirio Díaz",
+"OPC4":"Pancho Villa",
+"RESP":"Pancho Villa"
+},
+{
+"pregunta":"Militar mexicano que vencio al Ejercito Español y Francés",
+"OPC1":"Ignacio Zaragoza",
+"OPC2":"Porfirio Díaz",
+"OPC3":"Vicente Guerrero",
+"OPC4":"Antonio López de Santa Anna",
+"RESP":"Antonio López de Santa Anna"
+}
+]
+

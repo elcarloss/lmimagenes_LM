@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Cuál era la posición de Nehemías en la corte de el Rey de Persia?",
+"OPC1":"Copero",
+"OPC2":"Administrador",
+"OPC3":"Panadero",
+"OPC4":"Visir",
+"RESP":"Copero"
+},
+{
+"pregunta":"El profeta Eliseo curó a Namaan de que condición?",
+"OPC1":"Tifoidea",
+"OPC2":"Peste",
+"OPC3":"Plaga",
+"OPC4":"Lepra",
+"RESP":"Lepra"
+},
+{
+"pregunta":"Quién se aseguro de que moises estuviera seguro después de que fue puesto en el río?",
+"OPC1":"La hija del Faraón",
+"OPC2":"Miriam",
+"OPC3":"La madre de Moisés",
+"OPC4":"Una de las sirvientas del Faraón",
+"RESP":"Miriam"
+},
+{
+"pregunta":"Cuál era el nombre hebreo de Ester?",
+"OPC1":"Vashti",
+"OPC2":"Hadassah",
+"OPC3":"Mickal",
+"OPC4":"Hagar",
+"RESP":"Hadassah"
+},
+{
+"pregunta": "Que le regalaba Ana a su hijo Samuel cuando lo veía cada año en el Templo?",
+"OPC1":"Un Carnero",
+"OPC2":"Un Jabón",
+"OPC3":"Un Abrigo",
+"OPC4":"Una Paloma",
+"RESP":"Un Abrigo"
+},
+{
+"pregunta":"Qué mujer mató al malvado general Sísara, liberando así a Israel de la esclavitud cananea?",
+"OPC1":"Jael",
+"OPC2":"Dinah",
+"OPC3":"Rahab",
+"OPC4":"Miriam",
+"RESP":"Jael"
+},
+{
+"pregunta":"Quién fue la única Juez conocida en Israel",
+"OPC1":"Miriam",
+"OPC2":"Jael",
+"OPC3":"Deborah",
+"OPC4":"Jezabel",
+"RESP":"Deborah"
+},
+{
+"pregunta":"¿Qué edad tenia Sara, la esposa de Abraham cuando dio a luz a Isaac?",
+"OPC1":"74",
+"OPC2":"86",
+"OPC3":"91",
+"OPC4":"103",
+"RESP":"91"
+},
+{
+"pregunta":"Que hizo Rebeca que mostro al Siervo de Abraham que ella sería la esposa de Isaac?",
+"OPC1":"Era la única mujer en el desierto",
+"OPC2":"Le quito las sandalias al siervo",
+"OPC3":"Recito una escritura al siervo",
+"OPC4":"Ofrecio de beber agua a los camellos",
+"RESP":"Ofrecio de beber agua a los camellos"
+},
+{
+"pregunta":"Quién dijo -a donde vayas, yo iré; y donde tu te alojes, yo me alojaré: tu pueblo será mi pueblo y tu Dios mi Dios?",
+"OPC1":"Rut",
+"OPC2":"Ester",
+"OPC3":"Lea",
+"OPC4":"Raquel",
+"RESP":"Rut"
+}
+]

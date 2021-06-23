@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Misioneros que predicaron con éxito el Evangelio a los Lamanitas?",
+"OPC1":"Ammón",
+"OPC2":"Aarón",
+"OPC3":"Omner e Himni",
+"OPC4":"Todos ellos",
+"RESP":"Todos ellos"
+},
+{
+"pregunta":"Quiénes fueron los padres de Nefi",
+"OPC1":"Carlos y Lizbeth",
+"OPC2":"Lehi y Sariah",
+"OPC3":"Zacarias y Lidia",
+"OPC4":"Jose y Maria",
+"RESP":"Lehi y Sariah"
+},
+{
+"pregunta":"Quién fue shiblón?",
+"OPC1":"Hijo de Nefi",
+"OPC2":"Hijo de Alma",
+"OPC3":"Hijo de Mosíah",
+"OPC4":"Hijo de Helmán",
+"RESP":"Hijo de Mosíah"
+},
+{
+"pregunta":"Mujer lamanita que llamó a la gente cuando el espíritu venció a Amón y la casa del rey?",
+"OPC1":"Esther",
+"OPC2":"Sariah",
+"OPC3":"Zarahemla",
+"OPC4":"Abish",
+"RESP":"Abish"
+},
+{
+"pregunta": "Según lo que Alma enseño a su hijo Corianton. ¿Que cosa es lo mas aboninable ante el Señor exceptuando el derramamietno de sangre inocente y el negar el Espiritu Santo?",
+"OPC1":"Dar falso testimonio",
+"OPC2":"No cumplir con la ley de sabiduria",
+"OPC3":"Desobedecer la ley de castidad",
+"OPC4":"Hacer la guerra",
+"RESP":"Desobedecer la ley de castidad"
+},
+{
+"pregunta":"Cuántos pueblos diferentes llegaron a América en el tiempo del libro de Mormón",
+"OPC1":"La familia de Lehi y los Jareditas",
+"OPC2":"Los Aztecas",
+"OPC3":"La familia de Lehi, los Mulekitas y Jareditas",
+"OPC4":"Solo Lehi y su familia",
+"RESP":"La familia de Lehi, los Mulekitas y Jareditas"
+},
+{
+"pregunta":"En que época vivieron Jared y su hermano?",
+"OPC1":"Cuando la Torre de Babel",
+"OPC2":"Cuando Sedequías",
+"OPC3":"En la época de Moises",
+"OPC4":"Con Noe",
+"RESP":"Cuando la Torre de Babel"
+},
+{
+"pregunta":"Por medio de cosas pequeñas y sencillas se realizan grandes cosas",
+"OPC1":"Alma 37:6-7",
+"OPC2":"Alma 37:2-5",
+"OPC3":"Jacob 37:6-7",
+"OPC4":"Ninguna de estas",
+"RESP":"Alma 37:6-7"
+},
+{
+"pregunta":"Cuántas personas diferentes escribieron el libro de mormón?",
+"OPC1":"10",
+"OPC2":"11",
+"OPC3":"12",
+"OPC4":"13",
+"RESP":"11"
+},
+{
+"pregunta":"¡Oh recuerda, hijo mio, y aprende sabiduria en tu juventud; si, aprende en tu juventud a guardar los mandamientos de Dios!",
+"OPC1":"Alma 37:30",
+"OPC2":"2 Nefi 2:20",
+"OPC3":"3 Nefi 2:25",
+"OPC4":"Alma 37:35",
+"RESP":"Alma 37:35"
+}
+]
