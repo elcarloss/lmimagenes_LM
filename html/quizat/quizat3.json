@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"¿Que Imperio dirigió Ciro?",
+"OPC1":"Griego",
+"OPC2":"Romano",
+"OPC3":"Babilonio",
+"OPC4":"Persa",
+"RESP":"Persa"
+},
+{
+"pregunta":"¿Hermana de Abraham?",
+"OPC1":"Cetura",
+"OPC2":"Sara",
+"OPC3":"Agar",
+"OPC4":"Sariah",
+"RESP":"Sara"
+},
+{
+"pregunta":"Que parentesco tenia Jacob con Abrahám?",
+"OPC1":"Tío",
+"OPC2":"Padre",
+"OPC3":"Nieto",
+"OPC4":"Bisnieto",
+"RESP":"Nieto"
+},
+{
+"pregunta":"Abraham se dedicaba al siguiente oficio?",
+"OPC1":"Era Pastor",
+"OPC2":"Era Agricultor",
+"OPC3":"Era Carpintero",
+"OPC4":"Era Comerciante",
+"RESP":"Era Pastor"
+},
+{
+"pregunta": "Qué profeta del Antiguo Testamento estaba presente en Jerusalén durante el asedio babilónico?",
+"OPC1":"Ezequiel",
+"OPC2":"Jeremías",
+"OPC3":"Isaías",
+"OPC4":"Samuel",
+"RESP":"Jeremías"
+},
+{
+"pregunta":"Quién sostuvo los brazos de Moisés durante la batalla de Israel contra los Amalekitas?",
+"OPC1":"Aarón y Jetro",
+"OPC2":"Aarón y Hur",
+"OPC3":"Aarón y Josue",
+"OPC4":"Aarón y Eleazar",
+"RESP":"Aarón y Hur"
+},
+{
+"pregunta":"Que profeta del Antiguo Testamento tuvo un hijo con el nombre más largo en la Biblia (Maher-shalal-hash-baz)",
+"OPC1":"Isaías",
+"OPC2":"Zacarías",
+"OPC3":"Jeremías",
+"OPC4":"Ezequiel",
+"RESP":"Isaías"
+},
+{
+"pregunta":"En el tiempo del censo que realizo Moisés en el primer capitulo de Números, cuál de las doce tribus de Israel era la más pequeña?",
+"OPC1":"Juda",
+"OPC2":"Manasés",
+"OPC3":"Leví",
+"OPC4":"Gad",
+"RESP":"Manasés"
+},
+{
+"pregunta":"Cuál de los siguientes NO es un libro del Antiguo Testamento?",
+"OPC1":"Salmos",
+"OPC2":"Números",
+"OPC3":"Enoc",
+"OPC4":"Jueces",
+"RESP":"Enoc"
+},
+{
+"pregunta":"Israel se dividió en dos reinos después del reinado del rey Salomón, con Israel en el norte, pero ¿cuál era el nombre del reino del sur?",
+"OPC1":"Manasés",
+"OPC2":"Judá",
+"OPC3":"Leví",
+"OPC4":"Gad",
+"RESP":"Judá"
+}
+]

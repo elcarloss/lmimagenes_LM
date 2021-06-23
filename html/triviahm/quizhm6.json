@@ -1,0 +1,91 @@
+[
+{
+"pregunta":"La actividad más importante durante la Colonia fue:",
+"OPC1":"Industria",
+"OPC2":"Minería",
+"OPC3":"Agricultura",
+"OPC4":"Comercio",
+"RESP":"Minería"
+},
+{
+"pregunta":"Las zonas mineras más importantes, en donde hubo mayor concentración de la población durante la Colonia, estaban en:",
+"OPC1":"Veracruz, Tabasco y Yucatán",
+"OPC2":"Jalisco, Colima y Nayarit",
+"OPC3":"Sinaloa, Chihuahua y Sonora",
+"OPC4":"Zacatecas, Real de Monte, Pachuca y Guanajuato",
+"RESP":"Zacatecas, Real de Monte, Pachuca y Guanajuato"
+},
+{
+"pregunta":"Al consumarse la conquista española, el Rey de España Carlos I, instituyó un Tribunal Supremo para dictar las leyes, nombra funcionarios, organizar el gobierno de todas las colonias españolas de América desde España, nos referimos a:",
+"OPC1":"Virreinato",
+"OPC2":"Real consejo de Indias",
+"OPC3":"Primera Audiencia",
+"OPC4":"Republica",
+"RESP":"Real consejo de Indias"
+},
+{
+"pregunta":"Forma de gobierno que permaneció en México hasta antes de 1821?",
+"OPC1":"Real Audiencia",
+"OPC2":"Virreinato",
+"OPC3":"Real consejo de Indias",
+"OPC4":"Ninguno de los anteriores",
+"RESP":"Virreinato"
+},
+{
+"pregunta":"Hernán Cortés",
+"OPC1":"Fundo la Villa Rica de la Veracruz",
+"OPC2":"Demostro la posibilidad de la circunnavegación",
+"OPC3":"Zarpó del puerto de Palos hacia el Atlántico, planeando llegar a las Indias?",
+"OPC4":"Ninguna de las anteriores",
+"RESP":"Fundo la Villa Rica de la Veracruz"
+},
+{
+"pregunta":"La cultura más antigua que se desarrolló en Mesoamérica y a la que se le conoce con el nombre de Cultura Madre fue:",
+"OPC1":"Maya",
+"OPC2":"Azteca",
+"OPC3":"Chichimeca",
+"OPC4":"Olmeca",
+"RESP":"Olmeca"
+},
+{
+"pregunta":"Caudillo de la Independencia, organizó el Congreso de Chilpancingo y formuló la constitución de Apatzingán con su documento Sentimientos de la Nación?",
+"OPC1":"Agustín de Iturbide",
+"OPC2":"Vicente Guerrero",
+"OPC3":"José María Morelos y Pavón",
+"OPC4":"Miguel Hidalgo",
+"RESP":"José María Morelos y Pavón"
+},
+{
+"pregunta":"Guerra que sostuve México contra Francia durante el periodo de Anastasio Bustamante:",
+"OPC1":"Guerra Cristera",
+"OPC2":"Guerra de los Pasteles",
+"OPC3":"Invasión Conservadora",
+"OPC4":"Ninguna de las anteriores",
+"RESP":"Guerra de los Pasteles"
+},
+{
+"pregunta":"En el desarrollo de la Guerra de Reforma pelaron:",
+"OPC1":"Liberales y Franceses",
+"OPC2":"Liberales contra norteamericanos",
+"OPC3":"Liberales contra Conservadores",
+"OPC4":"Conservadores contra Franceses",
+"RESP":"Liberales contra Conservadores"
+},
+{
+"pregunta":"Causa por la que dejó de funcionar con éxito la política de desarollo estabilizador en la década de 1970?",
+"OPC1":"Moratorio al pago de la deuda externa",
+"OPC2":"Venta excesiva de materias primas",
+"OPC3":"Exagerado incremento de la población del país",
+"OPC4":"Ninguno de los anteriores",
+"RESP":"Exagerado incremento de la población del país"
+},
+{
+"pregunta":"Sectores sociales con los que Lázaro Cárdenas reorganiza al PNR?",
+"OPC1":"Obrero y campesino",
+"OPC2":"Popular y militar",
+"OPC3":"Eclesiástico y militar",
+"OPC4":"Conservadores",
+"RESP":"Popular y militar"
+}
+]
+

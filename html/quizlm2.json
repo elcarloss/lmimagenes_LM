@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Quién fue el suegro de Nefi?",
+"OPC1":"Jose",
+"OPC2":"Zoram",
+"OPC3":"Sedequias",
+"OPC4":"Ismael",
+"RESP":"Ismael"
+},
+{
+"pregunta":"Después de salir de Jerusalén y viajar a través del desierto, Lehi y su familia llegaron al mar que llamaron esto, es decir, muchas aguas.",
+"OPC1":"Irreantum",
+"OPC2":"Nilo",
+"OPC3":"Pison",
+"OPC4":"Golgota",
+"RESP":"Irreantum"
+},
+{
+"pregunta":"Siervo de Labán que siguió a Nefi y sus hermanos al desierto",
+"OPC1":"Abdiah",
+"OPC2":"Zoram",
+"OPC3":"Malco",
+"OPC4":"Omniah",
+"RESP":"Zoram"
+},
+{
+"pregunta":"Cuándo Ismael murio, en donde fue enterrado?",
+"OPC1":"Ninive",
+"OPC2":"Jerusalen",
+"OPC3":"Egipto",
+"OPC4":"Nahom",
+"RESP":"Nahom"
+},
+{
+"pregunta": "Idioma en el que se escribió originalmente el Libro de Mormón?",
+"OPC1":"Hebreo",
+"OPC2":"Arameo",
+"OPC3":"Egipcio reformado",
+"OPC4":"Inglés",
+"RESP":"Egipcio reformado"
+},
+{
+"pregunta":"En que escritura se hace referencia a la visión de el árbol de la vida de lehi?",
+"OPC1":"1 Nefi 8",
+"OPC2":"1 Nefi 7",
+"OPC3":"2 Nefi 8",
+"OPC4":"2 Nefi 7",
+"RESP":"1 Nefi 8"
+},
+{
+"pregunta":"Hermanos de Nefi",
+"OPC1":"Lehi, Sam, José, Laman, Lemuel",
+"OPC2":"Jacob, José, Lehi, Lemuel",
+"OPC3":"Lamán, Lemuel, Sam, Jacob y José",
+"OPC4":"Laman, Lemuel, Lehi, Jared, Carlos",
+"RESP":"Lamán, Lemuel, Sam, Jacob y José"
+},
+{
+"pregunta":"¿Qué significaba la barra de hierro del sueño de Lehi?",
+"OPC1":"El Mundo",
+"OPC2":"El cielo",
+"OPC3":"La vida",
+"OPC4":"La palabra de dios",
+"RESP":"La palabra de dios"
+},
+{
+"pregunta":"Que representan los vapores de tinieblas que lehi vio?",
+"OPC1":"El calor",
+"OPC2":"Las tentaciones",
+"OPC3":"Los libros",
+"OPC4":"El Mundo",
+"RESP":"Las tentaciones"
+},
+{
+"pregunta":"Que le pidio dios a nefi que construyera?",
+"OPC1":"Un barco",
+"OPC2":"Una casa",
+"OPC3":"Un submarino",
+"OPC4":"Una brujula",
+"RESP":"Un barco"
+}
+]

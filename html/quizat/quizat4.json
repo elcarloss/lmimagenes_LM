@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Que Rey tuvo el reinado mas largo en el reino de Israel?",
+"OPC1":"David",
+"OPC2":"Salomón",
+"OPC3":"Jeroboam II",
+"OPC4":"Sedequias",
+"RESP":"Jeroboam II"
+},
+{
+"pregunta":"Como se perdonaban los pecados en el Antiguo Testamento?",
+"OPC1":"A golpes",
+"OPC2":"Con un corazón quebrantado",
+"OPC3":"Sacrificio Animal",
+"OPC4":"Con piedras",
+"RESP":"Sacrificio Animal"
+},
+{
+"pregunta":"Que parentesco tenia Lot con Abraham?",
+"OPC1":"Era su Padre",
+"OPC2":"Era su Abuelo",
+"OPC3":"Era su Tío",
+"OPC4":"Era su Hermano",
+"RESP":"Era su Tío"
+},
+{
+"pregunta":"Cuál era el nombre del hermano menor de José (vendido en Egipto)?",
+"OPC1":"Benjamín",
+"OPC2":"Rubén",
+"OPC3":"Leví",
+"OPC4":"Manasés",
+"RESP":"Benjamín"
+},
+{
+"pregunta": "Como hizo Rahab para que los invasores israelitas identificaran su casa?",
+"OPC1":"La pinto de color verde",
+"OPC2":"Puso una puerta de Juncos",
+"OPC3":"Ató un cordon rojo en la ventana",
+"OPC4":"Tenia fuego encendido en su casa",
+"RESP":"Ató un cordon rojo en la ventana"
+},
+{
+"pregunta":"A quién ungió Samuel como primer Rey de Israel?",
+"OPC1":"David",
+"OPC2":"Salomón",
+"OPC3":"Josúe",
+"OPC4":"Saúl",
+"RESP":"Saúl"
+},
+{
+"pregunta":"Quién fue el sucesor de Moisés después de su muerte",
+"OPC1":"Uriah",
+"OPC2":"Samuel",
+"OPC3":"Hur",
+"OPC4":"Josúe",
+"RESP":"Josúe"
+},
+{
+"pregunta":"Cuál era el nombre del padre de el Rey David?",
+"OPC1":"Lot",
+"OPC2":"Isaí",
+"OPC3":"Booz",
+"OPC4":"Obed",
+"RESP":"Isaí"
+},
+{
+"pregunta":"Como terminó el profeta judío Daniel en Babilonia?",
+"OPC1":"El nació en babilonia",
+"OPC2":"Fue capturado y llevado a babilonia",
+"OPC3":"Estaba de paseo en babilonia",
+"OPC4":"Ninguna",
+"RESP":"Fue capturado y llevado a babilonia"
+},
+{
+"pregunta":"De que catastrofe salvo José a Egipto",
+"OPC1":"De la Lepra",
+"OPC2":"De la Hambruna",
+"OPC3":"De un Terremoto",
+"OPC4":"De las langostas",
+"RESP":"De la Hambruna"
+}
+]

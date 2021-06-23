@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Nephi's older brother who did not murmur?",
+"OPC1":"Laman",
+"OPC2":"Sam",
+"OPC3":"Lemuel",
+"OPC4":"Everyone muttered",
+"RESP":"Sam"
+},
+{
+"pregunta":"What language does Nephi mention in 1 Nephi 2?",
+"OPC1":"Egyptian",
+"OPC2":"Hebrew",
+"OPC3":"Latin",
+"OPC4":"Aramaic",
+"RESP":"Egyptian"
+},
+{
+"pregunta":"Which king was in Jerusalem when lehi and his family went to the promised land?",
+"OPC1":"Abdiah",
+"OPC2":"Zedekiah",
+"OPC3":"Rus",
+"OPC4":"None",
+"RESP":"Zedekiah"
+},
+{
+"pregunta":"What was the name of Nephi's older brother??",
+"OPC1":"Joseph",
+"OPC2":"Lemuel",
+"OPC3":"Laman",
+"OPC4":"Sam",
+"RESP":"Laman"
+},
+{
+"pregunta": "Approximate year (B.C.) in which Lehi and his family went out into the desert?",
+"OPC1":"600 years BC",
+"OPC2":"500 years BC",
+"OPC3":"1000 years BC",
+"OPC4":"400 years BC",
+"RESP":"600 years BC"
+},
+{
+"pregunta":"Why the Jews were irritated with Lehi?",
+"OPC1":"He was a bad person with them.",
+"OPC2":"He was a rich person",
+"OPC3":"None",
+"OPC4":"He testified that its works are evil",
+"RESP":"He testified that its works are evil"
+},
+{
+"pregunta":"What is the promised land??",
+"OPC1":"America",
+"OPC2":"Europe",
+"OPC3":"Australia",
+"OPC4":"Africa",
+"RESP":"America"
+},
+{
+"pregunta":"How many books are in the book of Mormon?",
+"OPC1":"10",
+"OPC2":"15",
+"OPC3":"16",
+"OPC4":"14",
+"RESP":"15"
+},
+{
+"pregunta":"Lehi's wife's name?",
+"OPC1":"Sariah",
+"OPC2":"Mary",
+"OPC3":"Sara",
+"OPC4":"Zarahemla",
+"RESP":"Sariah"
+},
+{
+"pregunta":"What tribe of Israel was the prophet Lehi from?",
+"OPC1":"Ephraim",
+"OPC2":"Dan",
+"OPC3":"Simon",
+"OPC4":"Manasseh",
+"RESP":"Manasseh"
+}
+]

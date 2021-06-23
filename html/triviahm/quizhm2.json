@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Nombre de México durante el periodo colonial:",
+"OPC1":"México",
+"OPC2":"Nueva España",
+"OPC3":"Tenochtitlán",
+"OPC4":"Nueva Granada",
+"RESP":"Nueva España"
+},
+{
+"pregunta":"Nombre del conquistador que derrotó al Imperio mexica:",
+"OPC1":"Hernán Cortés",
+"OPC2":"Francisco Pizarro",
+"OPC3":"Pánfilo de Narváez",
+"OPC4":"Cristóbal Colón",
+"RESP":"Hernán Cortés"
+},
+{
+"pregunta":"Nombre del último emperador mexica, a quien los conquistadores españoles torturaron quemándole los pies:",
+"OPC1":"Moctezuma",
+"OPC2":"Cuauhtémoc",
+"OPC3":"Cuitláhuac",
+"OPC4":"Tizoc",
+"RESP":"Cuauhtémoc"
+},
+{
+"pregunta":"“La Malinche” fue:",
+"OPC1":"Una mujer indígena que sirvió de intérprete a Cortés",
+"OPC2":"Una heroína en la lucha por la Independencia",
+"OPC3":"Una famosa curandera de Oaxaca",
+"OPC4":"La primera mujer en ocupar una diputación federal",
+"RESP":"Una mujer indígena que sirvió de intérprete a Cortés"
+},
+{
+"pregunta":"Nombre de la batalla en la que se afirma que los españoles perdieron hombres, caballos y cañones en la que Cortés lloró al llegar a la orilla del lago:",
+"OPC1":"De la Calzada de Tacuba",
+"OPC2":"Derrota de Atizapán",
+"OPC3":"De la Noche Triste",
+"OPC4":"Matanza de Cholula",
+"RESP":"De la Noche Triste"
+},
+{
+"pregunta":"En México, a partir del virreinato, se denominaba criollos a:",
+"OPC1":"Los hijos de padre español y madre indígena",
+"OPC2":"Los hijos de esclavos negros",
+"OPC3":"Todas las personas que no tuvieran tez blanca",
+"OPC4":"Los hijos de españoles nacidos en la Nueva España",
+"RESP":"Los hijos de españoles nacidos en la Nueva España"
+},
+{
+"pregunta":"El principal culto religioso de la sociedad novohispana y que perdura en la actualidad es:",
+"OPC1":"La Virgen de los Remedios",
+"OPC2":"La Virgen de Guadalupe",
+"OPC3":"El Cristo Negro de Chalma",
+"OPC4":"La Virgen de los enfermos",
+"RESP":"La Virgen de Guadalupe"
+},
+{
+"pregunta":"Nombre de la poetisa más importante de la época novohispana:",
+"OPC1":"Sor Juana Inés de la Cruz",
+"OPC2":"María Anna Agueda de San Ignacio",
+"OPC3":"La Malinche",
+"OPC4":"Tonantzin",
+"RESP":"Sor Juana Inés de la Cruz"
+},
+{
+"pregunta":"El mineral que más se extraía en la Nueva España era:",
+"OPC1":"Litio",
+"OPC2":"Oro",
+"OPC3":"Plata",
+"OPC4":"Bronce",
+"RESP":"Plata"
+},
+{
+"pregunta":"La máxima autoridad civil en la Nueva España era el:",
+"OPC1":"Virrey",
+"OPC2":"Gobernador",
+"OPC3":"Presidente",
+"OPC4":"Primer Ministro",
+"RESP":"Virrey"
+}
+]

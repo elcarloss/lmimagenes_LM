@@ -1,0 +1,83 @@
+[
+{
+"pregunta":"To whom Jesus Christ appeared in spirit one day before coming into the world?",
+"OPC1":"Nephi son of nephi",
+"OPC2":"Lehí",
+"OPC3":"John the Baptist",
+"OPC4":"Isaias",
+"RESP":"Nephi son of nephi"
+},
+{
+"pregunta":"How many pages ar ein the Book of Mormon?",
+"OPC1":"531",
+"OPC2":"500",
+"OPC3":"631",
+"OPC4":"550",
+"RESP":"531"
+},
+{
+"pregunta":"And by the power of the Holy Ghost ye may know the truth of all things....",
+"OPC1":"Moroni 1:1",
+"OPC2":"Moroni 3:5",
+"OPC3":"Helaman 3:5",
+"OPC4":"Jacob 2:1",
+"RESP":"Moroni 3:5"
+},
+
+{
+"pregunta":"How many words does the book of Mormon contain?",
+"OPC1":"Near 270000 words",
+"OPC2":"Near 280000 words",
+"OPC3":"Near 300000 words",
+"OPC4":"100000",
+"RESP":"Near 270000 words"
+},
+{
+"pregunta": "Where the book of Ether came from?",
+"OPC1":"From the bronze plates",
+"OPC2":"From the golden plates",
+"OPC3":"From the 24 Jaredite plates",
+"OPC4":"De Zarahemla",
+"RESP":"From the 24 Jaredite plates"
+},
+{
+"pregunta":"I will go and do the things which the Lord hath commanded...",
+"OPC1":"1 Nephi 3:6",
+"OPC2":"1 Nephi 3:7",
+"OPC3":"2 Nephi 3:7",
+"OPC4":"3 Nephi 3:7",
+"RESP":"1 Nephi 3:7"
+},
+{
+"pregunta":"How many centuries did the Nephites survive after the visit of Christ?",
+"OPC1":"2 Centuries",
+"OPC2":"4 Centuries",
+"OPC3":"100 years",
+"OPC4":"1000 years",
+"RESP":"4 Centuries"
+},
+{
+"pregunta":"Whose son Moroni was?",
+"OPC1":"Alma",
+"OPC2":"Abinadi",
+"OPC3":"Mormon",
+"OPC4":"Jacob",
+"RESP":"Mormon"
+},
+{
+"pregunta":"The first prophet of the Book of Mormon was?",
+"OPC1":"Nephi",
+"OPC2":"Lehi",
+"OPC3":"Sam",
+"OPC4":"Jacob",
+"RESP":"Lehi"
+},
+{
+"pregunta":"Adam fell that men might be;...",
+"OPC1":"2 Nephi 2:25",
+"OPC2":"2 Nephi 2:20",
+"OPC3":"3 Nephi 2:25",
+"OPC4":"1 Nephi 2:20",
+"RESP":"2 Nephi 2:25"
+}
+]

@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Deidad del México antiguo conocida como la “Serpiente Emplumada”",
+"OPC1":"Coatlicue",
+"OPC2":"Huitzilopochtli",
+"OPC3":"Quetzalcóatl",
+"OPC4":"Tláloc",
+"RESP":"Quetzalcóatl"
+},
+{
+"pregunta":"Cultura que se desarrolló en la ciudad de Palenque:",
+"OPC1":"Maya",
+"OPC2":"Mexica",
+"OPC3":"Olmeca",
+"OPC4":"Tolteca",
+"RESP":"Maya"
+},
+{
+"pregunta":"Las cabezas colosales son creaciones de la cultura:",
+"OPC1":"Mexica",
+"OPC2":"Mixteca",
+"OPC3":"Olmeca",
+"OPC4":"Tolteca",
+"RESP":"Olmeca"
+},
+{
+"pregunta":"Terreno construido sobre las lagunas del valle de México que sirvió de base al sistema productivo del altiplano central. En la actualidad, puede encontrarse en Xochimilco:",
+"OPC1":"Chinampa",
+"OPC2":"Encomienda",
+"OPC3":"Ejido",
+"OPC4":"Hacienda",
+"RESP":"Chinampa"
+},
+{
+"pregunta":"Manuscrito en papel amate o sobre cuero con representaciones pictóricas que relataba asuntos históricos y religiosos del México antiguo:",
+"OPC1":"Jeroglífico",
+"OPC2":"Pictograma",
+"OPC3":"Libro",
+"OPC4":"Códice",
+"RESP":"Códice"
+},
+{
+"pregunta":"¿En dónde se encuentran las pirámides del Sol y la Luna?",
+"OPC1":"Palenque",
+"OPC2":"Chichén Itzá",
+"OPC3":"Teotihuacan",
+"OPC4":"Uxmal",
+"RESP":"Teotihuacan"
+},
+{
+"pregunta":"Al lugar mítico de donde partieron los mexicas e iniciaron su migración se le conoce como:",
+"OPC1":"Aztlán",
+"OPC2":"Tula",
+"OPC3":"Mictlán",
+"OPC4":"Tenochtitlán",
+"RESP":"Aztlán"
+},
+{
+"pregunta":"La base alimenticia de los pueblos mesoamericanos fue:",
+"OPC1":"La papa",
+"OPC2":"El trigo",
+"OPC3":"El arroz",
+"OPC4":"El maíz",
+"RESP":"El maíz"
+},
+{
+"pregunta":"Chichén Itzá fue una poderosa ciudad:",
+"OPC1":"Tolteca",
+"OPC2":"Maya",
+"OPC3":"Totonaca",
+"OPC4":"Olmeca",
+"RESP":"Maya"
+},
+{
+"pregunta":"Año en que los españoles conquistaron México Tenochtitlán:",
+"OPC1":"1521",
+"OPC2":"1555",
+"OPC3":"1650",
+"OPC4":"1689",
+"RESP":"1521"
+}
+]

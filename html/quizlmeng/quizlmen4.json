@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"What prophet of the old testament Nephi constantly refers to?",
+"OPC1":"Jeremiah",
+"OPC2":"Moses",
+"OPC3":"Daniel",
+"OPC4":"Isaias",
+"RESP":"Isaias"
+},
+{
+"pregunta":"Nephi's younger brother?",
+"OPC1":"Sam",
+"OPC2":"Jacob",
+"OPC3":"Lemuel",
+"OPC4":"Joseph",
+"RESP":"Joseph"
+},
+{
+"pregunta":"He was an antichrist?",
+"OPC1":"Kishkumen",
+"OPC2":"Kumen",
+"OPC3":"Kimnor",
+"OPC4":"Korihor",
+"RESP":"Korihor"
+},
+{
+"pregunta":"Son of sedequias who was taken to the land of promise?",
+"OPC1":"Josias",
+"OPC2":"Hamutal",
+"OPC3":"Mulek",
+"OPC4":"Jarom",
+"RESP":"Mulek"
+},
+{
+"pregunta": "Where we read that natural man will be enemy to God until he yields to enticings of the Spirit?",
+"OPC1":"Mosiah 4:20",
+"OPC2":"Mormon 4:2",
+"OPC3":"1 Nephi 3:2",
+"OPC4":"Mosiah 3:19",
+"RESP":"Mosiah 3:19"
+},
+{
+"pregunta":"In which scripture is referenced the lehi's vision of the tree of life",
+"OPC1":"1 Nephi 8",
+"OPC2":"1 Nephi 7",
+"OPC3":"2 Nephi 8",
+"OPC4":"2 Nephi 7",
+"RESP":"1 Nephi 8"
+},
+{
+"pregunta":"King of the Lamanites who sent to Coriantumr to attack Zarahemla?",
+"OPC1":"Teancum",
+"OPC2":"Lot",
+"OPC3":"Teomner",
+"OPC4":"Tubaloth",
+"RESP":"Tubaloth"
+},
+{
+"pregunta":"Descendant of Mulek?",
+"OPC1":"Zarahemla",
+"OPC2":"Alma",
+"OPC3":"Nephi",
+"OPC4":"Sam",
+"RESP":"Zarahemla"
+},
+{
+"pregunta":"What was Jared's brother's name?",
+"OPC1":"Jared",
+"OPC2":"Eter",
+"OPC3":"Mahonri Moriancumer",
+"OPC4":"Jared's brother",
+"RESP":"Mahonri Moriancumer"
+},
+{
+"pregunta":"What was the name of Jarom's son?",
+"OPC1":"Amaron",
+"OPC2":"Abinadi",
+"OPC3":"Omni",
+"OPC4":"Quemiz",
+"RESP":"Omni"
+}
+]
