@@ -1,0 +1,83 @@
+[
+{
+"pregunta":"A quien se le aparecio Jesucristo en espíritu 1 día antes de nacer?",
+"OPC1":"Nefi hijo de Nefi",
+"OPC2":"Lehí",
+"OPC3":"Juan el Bautista",
+"OPC4":"Isaias",
+"RESP":"Nefi hijo de Nefi"
+},
+{
+"pregunta":"Cuantas paginas tiene el Libro de Mormon en español?",
+"OPC1":"642",
+"OPC2":"500",
+"OPC3":"600",
+"OPC4":"550",
+"RESP":"642"
+},
+{
+"pregunta":"Y por el poder del espiritu santo podreis conocer la verdad...",
+"OPC1":"Moroni 1:1",
+"OPC2":"Moroni 3:5",
+"OPC3":"Helamán 3:5",
+"OPC4":"Jacob 2:1",
+"RESP":"Moroni 3:5"
+},
+
+{
+"pregunta":"Cuántas palabras contiene el libro de mormón?",
+"OPC1":"Alrededor de 250000 palabras",
+"OPC2":"Alrededor de 280000 palabras",
+"OPC3":"Alrededor de 300000 palabras",
+"OPC4":"100000",
+"RESP":"Alrededor de 300000 palabras"
+},
+{
+"pregunta": "De donde vino el libro de Eter?",
+"OPC1":"De las plancas de bronce",
+"OPC2":"De las planchas de oro",
+"OPC3":"De las 24 planchas jareditas",
+"OPC4":"De Zarahemla",
+"RESP":"De las 24 planchas jareditas"
+},
+{
+"pregunta":"Ire y hare lo que el Señor ha mandado...",
+"OPC1":"1 Nefi 3:6",
+"OPC2":"1 Nefi 3:7",
+"OPC3":"2 Nefi 3:7",
+"OPC4":"3 Nefi 3:7",
+"RESP":"1 Nefi 3:7"
+},
+{
+"pregunta":"Cuantos siglos sobrevivieron los nefitas despues de la visita de Cristo?",
+"OPC1":"2 Siglos",
+"OPC2":"4 Siglos",
+"OPC3":"100 años",
+"OPC4":"1000 años",
+"RESP":"4 Siglos"
+},
+{
+"pregunta":"De quién era hijo moroni?",
+"OPC1":"Alma",
+"OPC2":"Abinadí",
+"OPC3":"Mormón",
+"OPC4":"Jacob",
+"RESP":"Mormón"
+},
+{
+"pregunta":"El primer profeta del libro de mormón?",
+"OPC1":"Nefi",
+"OPC2":"Lehi",
+"OPC3":"Sam",
+"OPC4":"Jacob",
+"RESP":"Lehi"
+},
+{
+"pregunta":"Adan Cayo para que los hombres existiesen...",
+"OPC1":"2 Nefi 2:25",
+"OPC2":"2 Nefi 2:20",
+"OPC3":"3 Nefi 2:25",
+"OPC4":"1 Nefi 2:20",
+"RESP":"2 Nefi 2:25"
+}
+]

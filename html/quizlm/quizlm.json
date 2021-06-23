@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Hermano mayor de nefi que no murmuró?",
+"OPC1":"Laman",
+"OPC2":"Sam",
+"OPC3":"Lemuel",
+"OPC4":"Todos murmuraron",
+"RESP":"Sam"
+},
+{
+"pregunta":"¿Que idioma menciona nefi en 1 Nefi 2?",
+"OPC1":"Egipcio",
+"OPC2":"Hebreo",
+"OPC3":"Español",
+"OPC4":"Arameo",
+"RESP":"Egipcio"
+},
+{
+"pregunta":"¿Que rey habia en jerusalen cuando lehi y su familia se fueron a la tierra prometida?",
+"OPC1":"Abdiah",
+"OPC2":"Sedequias",
+"OPC3":"Rus",
+"OPC4":"Ninguno",
+"RESP":"Sedequias"
+},
+{
+"pregunta":"¿Como se llamaba el hermano mayor de nefi?",
+"OPC1":"Jose",
+"OPC2":"Lemuel",
+"OPC3":"Laman",
+"OPC4":"Carlos",
+"RESP":"Laman"
+},
+{
+"pregunta": "Año aproximado (A.C.) en el que Lehi y su familia salieron al desierto?",
+"OPC1":"600 años A.C",
+"OPC2":"500 años A.C",
+"OPC3":"1000 años A.C",
+"OPC4":"400 años A.c",
+"RESP":"600 años A.C"
+},
+{
+"pregunta":"¿Porque los judíos se irritaban con Lehi?",
+"OPC1":"Era malo con ellos",
+"OPC2":"Era rico",
+"OPC3":"Ninguna de ellas",
+"OPC4":"Testificaba de sus maldades",
+"RESP":"Testificaba de sus maldades"
+},
+{
+"pregunta":"¿Cuál es la tierra prometida?",
+"OPC1":"América",
+"OPC2":"Europa",
+"OPC3":"Australia",
+"OPC4":"Africa",
+"RESP":"América"
+},
+{
+"pregunta":"¿Cuántos libros hay en el libro de mormón?",
+"OPC1":"10",
+"OPC2":"15",
+"OPC3":"16",
+"OPC4":"14",
+"RESP":"15"
+},
+{
+"pregunta":"¿Nombre de la esposa de lehi?",
+"OPC1":"Sariah",
+"OPC2":"Maria",
+"OPC3":"Sara",
+"OPC4":"Zarahemla",
+"RESP":"Sariah"
+},
+{
+"pregunta":"¿De qué tribu de Israel era el profeta Lehi?",
+"OPC1":"Efraín",
+"OPC2":"Dan",
+"OPC3":"Simon",
+"OPC4":"Manases",
+"RESP":"Manases"
+}
+]

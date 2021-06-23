@@ -1,0 +1,91 @@
+[
+{
+"pregunta":"Fecha en que se celebra el aniversario de la Revolución mexicana:",
+"OPC1":"5 de febrero",
+"OPC2":"5 de mayo",
+"OPC3":"16 de septiembre",
+"OPC4":"20 de noviembre",
+"RESP":"16 de septiembre"
+},
+{
+"pregunta":"Nombre del líder agrario que encabezó la Revolución mexicana en el estado de Morelos:",
+"OPC1":"Venustiano Carranza",
+"OPC2":"Emiliano Zapata",
+"OPC3":"Francisco I. Madero",
+"OPC4":"Francisco Villa",
+"RESP":"Emiliano Zapata"
+},
+{
+"pregunta":"El lema “Sufragio efectivo, no reelección” fue la bandera política de:",
+"OPC1":"Francisco I. Madero",
+"OPC2":"Benito Juárez",
+"OPC3":"Plutarco E. Calles",
+"OPC4":"Francisco Villa",
+"RESP":"Francisco I. Madero"
+},
+{
+"pregunta":"¿Quién fue Francisco Villa?",
+"OPC1":"Un famoso bandido del siglo XIX",
+"OPC2":"Un líder de la Revolución mexicana",
+"OPC3":"Un personaje de la novela Sálvese quien pueda",
+"OPC4":"Un cantante de música vernácula",
+"RESP":"Un líder de la Revolución mexicana"
+},
+{
+"pregunta":"Las “Adelitas” acompañaron a sus hombres al combate en:",
+"OPC1":"La Guerra de los Pasteles",
+"OPC2":"La Guerra de Independencia",
+"OPC3":"La Revolución de 1910",
+"OPC4":"La Guerra de 1847",
+"RESP":"La Revolución de 1910"
+},
+{
+"pregunta":"El 18 de marzo de 1938 el presidente Lázaro Cárdenas:",
+"OPC1":"Expropió el petróleo",
+"OPC2":"Redactó las Leyes de Reforma",
+"OPC3":"Nacionalizó la banca",
+"OPC4":"Inició la Revolución mexicana",
+"RESP":"Expropió el petróleo"
+},
+{
+"pregunta":"Señale el orden cronológico correcto de los siguientes acontecimientos históricos:",
+"OPC1":"Revolución mexicana, Independencia, Conquista",
+"OPC2":"Conquista, Revolución mexicana, Independencia",
+"OPC3":"Independencia, Conquista, Revolución mexicana",
+"OPC4":"Conquista, Independencia, Revolución mexicana",
+"RESP":"Conquista, Independencia, Revolución mexicana"
+},
+{
+"pregunta":"Representante del muralismo mexicano",
+"OPC1":"Diego Rivera",
+"OPC2":"Octavio Paz",
+"OPC3":"Luis Barragán",
+"OPC4":"Agustín Lara",
+"RESP":"Diego Rivera"
+},
+{
+"pregunta":"Nombre del partido político que gobernó durante siete décadas en el siglo XX",
+"OPC1":"Partido Comunista",
+"OPC2":"Partido Socialista Único de México",
+"OPC3":"Partido Revolucionario Institucional",
+"OPC4":"Partido Auténtico de la Revolución Mexicana",
+"RESP":"Partido Revolucionario Institucional"
+},
+{
+"pregunta":"¿En qué conflicto bélico internacional participó el “Escuadrón 201”?",
+"OPC1":"Guerra de Texas",
+"OPC2":"Guerra de los Pasteles",
+"OPC3":"Primera Guerra Mundial",
+"OPC4":"Segunda Guerra Mundial",
+"RESP":"Segunda Guerra Mundial"
+},
+{
+"pregunta":"El Tratado de Tlatelolco, logro de la diplomacia mexicana, atañe a:",
+"OPC1":"Los derechos sobre el mar patrimonial",
+"OPC2":"Los derechos de los pueblos indígenas",
+"OPC3":"La no proliferación de las armas nucleares",
+"OPC4":"Los intercambios comerciales en América Latina",
+"RESP":"La no proliferación de las armas nucleares"
+}
+]
+

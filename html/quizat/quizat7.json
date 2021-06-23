@@ -1,0 +1,83 @@
+[
+{
+"pregunta":"Cuál es el simbolo de la promesa de Dios a Noe?",
+"OPC1":"El Arcoiris",
+"OPC2":"El Agua",
+"OPC3":"Los Animales",
+"OPC4":"El Arca",
+"RESP":"El Arcoiris"
+},
+{
+"pregunta":"Quién recibió los diez mandamientos de Dios",
+"OPC1":"Noe",
+"OPC2":"Abraham",
+"OPC3":"Isaac",
+"OPC4":"Moisés",
+"RESP":"Moisés"
+},
+{
+"pregunta":"Cuál es el quinto mandamiento?",
+"OPC1":"Honrarás a tu padre y a tu madre",
+"OPC2":"No Matarás",
+"OPC3":"No robarás",
+"OPC4":"No darás falso testimonio",
+"RESP":"Honrarás a tu padre y a tu madre"
+},
+
+{
+"pregunta":"Dios mando a Jonas predicar a la ciudad de?",
+"OPC1":"Jerusalen",
+"OPC2":"Tarsis",
+"OPC3":"Siria",
+"OPC4":"Nínive",
+"RESP":"Nínive"
+},
+{
+"pregunta": "Que profeta fue arrojado a los leones por el rey Dario?",
+"OPC1":"Jeremías",
+"OPC2":"Daniel",
+"OPC3":"Isaías",
+"OPC4":"Jonas",
+"RESP":"Daniel"
+},
+{
+"pregunta":"Cuál es la última palabra del Antiguo Testamento",
+"OPC1":"Maldición",
+"OPC2":"Felicidad",
+"OPC3":"Profecia",
+"OPC4":"Tierra",
+"RESP":"Maldición"
+},
+{
+"pregunta":"Como se llamaba el Hermanastro de Moisés?",
+"OPC1":"Aarón",
+"OPC2":"Ramsés",
+"OPC3":"Rubén",
+"OPC4":"Josué",
+"RESP":"Ramsés"
+},
+{
+"pregunta":"Jehová mira el corazón",
+"OPC1":"Isaías 58:6-7",
+"OPC2":"1 Samuel 16:7",
+"OPC3":"Proverbios 3:5-6",
+"OPC4":"Exodo 19:5-6",
+"RESP":"1 Samuel 16:7"
+},
+{
+"pregunta":"La Ley del ayuno",
+"OPC1":"Isaías 58:6-7",
+"OPC2":"1 Samuel 16:7",
+"OPC3":"Proverbios 3:5-6",
+"OPC4":"Exodo 19:5-6",
+"RESP":"Isaías 58:6-7"
+},
+{
+"pregunta":"Herencia de Jehová son los Hijos",
+"OPC1":"Isaías 58:6-7",
+"OPC2":"1 Samuel 16:7",
+"OPC3":"Proverbios 3:5-6",
+"OPC4":"Salmos 127:3",
+"RESP":"Salmos 127:3"
+}
+]

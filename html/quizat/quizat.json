@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Versión del antiguo testamento empleada comunmente por los judíos en la época del Salvador?",
+"OPC1":"Rey Santiago",
+"OPC2":"Reina Valera",
+"OPC3":"Septuaginta",
+"OPC4":"Nuevo Mundo",
+"RESP":"Septuaginta"
+},
+{
+"pregunta":"Que libros abarcan la categoría de libros Históricos en el Antiguo Testamento?",
+"OPC1":"Génesis - Deuteronomio",
+"OPC2":"Josué - Ester",
+"OPC3":"Isaías - Malaquías",
+"OPC4":"Job - Cantar de los Cantares",
+"RESP":"Josué - Ester"
+},
+{
+"pregunta":"¿Que es el Pentateuco?",
+"OPC1":"La biblia",
+"OPC2":"Las revelaciones",
+"OPC3":"Los primeros cinco libros de la biblia",
+"OPC4":"Un profeta antiguo",
+"RESP":"Los primeros cinco libros de la biblia"
+},
+{
+"pregunta":"¿Como supo Moisés la historia de la creación del mundo?",
+"OPC1":"Por revelación",
+"OPC2":"Fuentes históricas con que contaba",
+"OPC3":"Se lo dijo su suegro",
+"OPC4":"Opción 1 y 2",
+"RESP":"Opción 1 y 2"
+},
+{
+"pregunta": "Uno de los acontecimiento importantes que se trata en genésis?",
+"OPC1":"Historia de David",
+"OPC2":"José vendido en Egipto",
+"OPC3":"Invasión y derrocamiento de Jerusalen",
+"OPC4":"Profecias sobre el pueblo de Israel",
+"RESP":"José vendido en Egipto"
+},
+{
+"pregunta":"¿De cuál de los siguientes idiomas procede la palabra Biblia?",
+"OPC1":"Hebrero",
+"OPC2":"Latin",
+"OPC3":"Egipcio",
+"OPC4":"Griego",
+"RESP":"Griego"
+},
+{
+"pregunta":"¿Cuántos animales metio Moisés en el Arca?",
+"OPC1":"Dos de cada especie",
+"OPC2":"Uno de cada especie",
+"OPC3":"No metio ninguno",
+"OPC4":"Tres de cada especie",
+"RESP":"No metio ninguno"
+},
+{
+"pregunta":"¿El Antiguo Testamento y el Nuevo resulta que son?",
+"OPC1":"Igual de extensos",
+"OPC2":"El Nuevo Testamento es más extenso",
+"OPC3":"El Nuevo Testamento es menos extenso",
+"OPC4":"Ninguna de las 3",
+"RESP":"El Nuevo Testamento es menos extenso"
+},
+{
+"pregunta":"¿Cuántas generaciones separaron a Noe de Abraham?",
+"OPC1":"7",
+"OPC2":"12",
+"OPC3":"10",
+"OPC4":"9",
+"RESP":"10"
+},
+{
+"pregunta":"¿Cuántos años vivio Adán?",
+"OPC1":"930",
+"OPC2":"480",
+"OPC3":"730",
+"OPC4":"860",
+"RESP":"930"
+}
+]

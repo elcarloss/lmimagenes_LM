@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Who was Nephi's father-in-law?",
+"OPC1":"Joseph",
+"OPC2":"Zoram",
+"OPC3":"Zedekiah",
+"OPC4":"Ishmael",
+"RESP":"Ishmael"
+},
+{
+"pregunta":"After leaving Jerusalem and traveling through the desert, Lehi and his family reached the sea that they called many waters..",
+"OPC1":"Irreantum",
+"OPC2":"Nile",
+"OPC3":"Pison",
+"OPC4":"Golgotha",
+"RESP":"Irreantum"
+},
+{
+"pregunta":"Laban's servant who followed Nephi and his brothers to the desert?",
+"OPC1":"Abdiah",
+"OPC2":"Zoram",
+"OPC3":"Malchus",
+"OPC4":"David",
+"RESP":"Zoram"
+},
+{
+"pregunta":"When Ishmael died, where he was buried?",
+"OPC1":"Nineveh",
+"OPC2":"Jerusalem",
+"OPC3":"Egypt",
+"OPC4":"Nahom",
+"RESP":"Nahom"
+},
+{
+"pregunta": "Language in which the Book of Mormon was originally written?",
+"OPC1":"Hebrew",
+"OPC2":"Aramaic",
+"OPC3":"Egyptian Reformed",
+"OPC4":"English",
+"RESP":"Egyptian Reformed"
+},
+{
+"pregunta":"In which scripture reference is made to the vision of the tree of life of lehi?",
+"OPC1":"1 Nephi 8",
+"OPC2":"1 Nephi 7",
+"OPC3":"2 Nephi 8",
+"OPC4":"2 Nephi 7",
+"RESP":"1 Nephi 8"
+},
+{
+"pregunta":"Nephi's brothers",
+"OPC1":"Lehi, Sam, Joseph, Laman, Lemuel",
+"OPC2":"Jacob, Joseph, Lehi, Lemuel",
+"OPC3":"Laman, Lemuel, Sam, Jacob and Joseph",
+"OPC4":"Laman, Lemuel, Lehi, Jared, Charlie",
+"RESP":"Lamán, Lemuel, Sam, Jacob and Joseph"
+},
+{
+"pregunta":"What did Lehi's dream iron rod mean?",
+"OPC1":"The world",
+"OPC2":"The sky",
+"OPC3":"The life",
+"OPC4":"The word of the lord",
+"RESP":"The word of the lord"
+},
+{
+"pregunta":"What do the vapors of darkness that lehi saw mean?",
+"OPC1":"The heat",
+"OPC2":"The temptations",
+"OPC3":"The books",
+"OPC4":"The world",
+"RESP":"The temptations"
+},
+{
+"pregunta":"What did God ask Nephi to build?",
+"OPC1":"A ship",
+"OPC2":"A house",
+"OPC3":"A submarine",
+"OPC4":"A compass",
+"RESP":"A ship"
+}
+]

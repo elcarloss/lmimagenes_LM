@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Who founded the city of Zarahemla?",
+"OPC1":"King Mosiah",
+"OPC2":"Alma",
+"OPC3":"King Benjamin",
+"OPC4":"Mulekites",
+"RESP":"Mulekites"
+},
+{
+"pregunta":"What is the book of the Book of Mormon that quotes Isaiah the most",
+"OPC1":"2 Nephi",
+"OPC2":"1 Nephi",
+"OPC3":"3 Nephi",
+"OPC4":"Alma",
+"RESP":"2 Nephi"
+},
+{
+"pregunta":"How many times in the Book of Mormon are the words mentioned: Jesus Christ, Christ and Jesus?",
+"OPC1":"Jesus Christ 60, Jesus 110, Christ 420",
+"OPC2":"Jesus Christ 67, Jesus 120, Christ 320",
+"OPC3":"Jesus Christ 60, Jesus 220, Christ 120",
+"OPC4":"Jesus Christ 57, Jesus 300, Christ 500",
+"RESP":"Jesus Christ 67, Jesus 120, Christ 320"
+},
+{
+"pregunta":"How Abish the Lamanite Woman became a member of the church?",
+"OPC1":"For a vision his father had",
+"OPC2":"By Ammon",
+"OPC3":"By King Benjamin",
+"OPC4":"By his mother",
+"RESP":"For a vision his father had"
+},
+{
+"pregunta": "How old was Mormon when the Lord visited him and knew his love?",
+"OPC1":"15",
+"OPC2":"20",
+"OPC3":"12",
+"OPC4":"22",
+"RESP":"15"
+},
+{
+"pregunta":"How many names of Women appear in the Book of Mormon?",
+"OPC1":"Sariah, Abish",
+"OPC2":"Mary, Sariah, Eve",
+"OPC3":"Mary, Sariah, Eve, Abish and Elizabeth",
+"OPC4":"Mary and Sariah",
+"RESP":"Mary, Sariah, Eve, Abish and Elizabeth"
+},
+{
+"pregunta":"Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die;",
+"OPC1":"2 Nephi 28:7-9",
+"OPC2":"1 Nephi 28:7-9",
+"OPC3":"Alma 1:5-6",
+"OPC4":"3 Nephi 4:2-4",
+"RESP":"2 Nephi 28:7-9"
+},
+{
+"pregunta":"What is a Rameúmptom?",
+"OPC1":"A high platform",
+"OPC2":"An altar",
+"OPC3":"Where the Zoramites repeated prayers",
+"OPC4":"All of them",
+"RESP":"All of them"
+},
+{
+"pregunta":"Who demanded a sign to Alma Son?",
+"OPC1":"Korihor",
+"OPC2":"Nehor",
+"OPC3":"Zoram",
+"OPC4":"Amulek",
+"RESP":"Korihor"
+},
+{
+"pregunta":"What is the longest chapter in the Book of Mormon (Number of Verses)?",
+"OPC1":"Jacob 5",
+"OPC2":"Alma 5",
+"OPC3":"3 Nephi 20",
+"OPC4":"1 Nephi 10",
+"RESP":"Jacob 5"
+}
+]

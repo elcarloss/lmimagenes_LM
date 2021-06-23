@@ -1,0 +1,91 @@
+[
+{
+"pregunta":"Fecha en la que se celebra la Independencia de México:",
+"OPC1":"5 de mayo",
+"OPC2":"5 de febrero",
+"OPC3":"16 de septiembre",
+"OPC4":"20 de noviembre",
+"RESP":"16 de septiembre"
+},
+{
+"pregunta":"La Independencia de México inició en:",
+"OPC1":"1810",
+"OPC2":"1821",
+"OPC3":"1910",
+"OPC4":"1921",
+"RESP":"1810"
+},
+{
+"pregunta":"¿Cuál fue la importancia del sacerdote Miguel Hidalgo y Costilla en la historia de México?",
+"OPC1":"Inició la Guerra de Independencia",
+"OPC2":"Inició la Revolución mexicana",
+"OPC3":"Promulgó una nueva constitución",
+"OPC4":"Encabezó la Guerra de Reforma",
+"RESP":"Inició la Guerra de Independencia"
+},
+{
+"pregunta":"¿A quién se conoce como “El Padre de la Patria”?",
+"OPC1":"Francisco I. Madero",
+"OPC2":"Benito Juárez",
+"OPC3":"Miguel Hidalgo y Costilla",
+"OPC4":"George Washington",
+"RESP":"Miguel Hidalgo y Costilla"
+},
+{
+"pregunta":"Cadetes militares que defendieron el Castillo de Chapultepec de la invasión norteamericana en 1847:",
+"OPC1":"Insurgentes",
+"OPC2":"Niños héroes",
+"OPC3":"Defensores de la Patria",
+"OPC4":"Liberales",
+"RESP":"Niños héroes"
+},
+{
+"pregunta":"En México el 5 de mayo se celebra:",
+"OPC1":"La Batalla de Puebla",
+"OPC2":"La Revolución mexicana",
+"OPC3":"La promulgación de la Constitución",
+"OPC4":"La Independencia de México",
+"RESP":"La Batalla de Puebla"
+},
+{
+"pregunta":"Presidente mexicano al que se le atribuye la frase “Entre los individuos como entre las naciones, el respeto al derecho ajeno es la paz”:",
+"OPC1":"Benito Juárez",
+"OPC2":"Francisco I. Madero",
+"OPC3":"Emiliano Zapata",
+"OPC4":"Lázaro Cárdenas",
+"RESP":"Benito Juárez"
+},
+{
+"pregunta":"México perdió la mitad de su territorio a mediados del siglo XIX, como consecuencia del enfrentamiento con:",
+"OPC1":"Francia",
+"OPC2":"España",
+"OPC3":"Portugal",
+"OPC4":"Estados Unidos",
+"RESP":"Estados Unidos"
+},
+{
+"pregunta":"La Guerra de Reforma fue entre:",
+"OPC1":"México y Estados Unidos",
+"OPC2":"Liberales y conservadores",
+"OPC3":"El Ejército mexicano y el Ejército francés",
+"OPC4":"México y Francia",
+"RESP":"Liberales y conservadores"
+},
+{
+"pregunta":"El presidente que duró más de treinta años en el poder en México fue:",
+"OPC1":"Antonio López de Santa Anna",
+"OPC2":"Porfirio Díaz",
+"OPC3":"Benito Juárez",
+"OPC4":"Francisco I. Madero",
+"RESP":"Porfirio Díaz"
+},
+{
+"pregunta":"El Porfiriato se conoce como una época de extensión de:",
+"OPC1":"Las vías férreas",
+"OPC2":"La esclavitud",
+"OPC3":"El ejido",
+"OPC4":"La radio",
+"RESP":"Las vías férreas"
+}
+]
+

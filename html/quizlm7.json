@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Quién fundo la ciudad de Zarahemla?",
+"OPC1":"El rey Mosiah",
+"OPC2":"Alma",
+"OPC3":"El rey Benjamin",
+"OPC4":"Los Mulekitas",
+"RESP":"Los Mulekitas"
+},
+{
+"pregunta":"Cuál es el libro del Libro de Mormón que cita mas a Isaías",
+"OPC1":"2 Nefi",
+"OPC2":"1 Nefi",
+"OPC3":"3 Nefi",
+"OPC4":"Alma",
+"RESP":"2 Nefi"
+},
+{
+"pregunta":"Cuántas veces en el Libro de Mormón son mencionadas las palabras: Jesucristo, Cristo y Jesus?",
+"OPC1":"Jesucristo 60, Jesus 110, Cristo 420",
+"OPC2":"Jesucristo 67, Jesus 120, Cristo 320",
+"OPC3":"Jesucristo 60, Jesus 220, Cristo 120",
+"OPC4":"Jesucristo 57, Jesus 300, Cristo 500",
+"RESP":"Jesucristo 67, Jesus 120, Cristo 320"
+},
+{
+"pregunta":"Como se convirtió Abish la Mujer Lamanita?",
+"OPC1":"Por una visión que tuvo su padre",
+"OPC2":"Por Ammón",
+"OPC3":"Por el Rey Benjamin",
+"OPC4":"Por su Madre",
+"RESP":"Por una visión que tuvo su padre"
+},
+{
+"pregunta": "Cuántos años tenia Mormon cuando el Señor lo visto y conocio de su amor?",
+"OPC1":"15",
+"OPC2":"20",
+"OPC3":"12",
+"OPC4":"22",
+"RESP":"15"
+},
+{
+"pregunta":"Cuántos nombre de Mujeres aparecen en el Libro de Mormon",
+"OPC1":"Sariah, Abish",
+"OPC2":"Maria, Sariah, Eva",
+"OPC3":"Maria, Sariah, Eva, Abish e Isabel",
+"OPC4":"Maria y Sariah",
+"RESP":"Maria, Sariah, Eva, Abish e Isabel"
+},
+{
+"pregunta":"Muchos diran comed, bebed y divertíos",
+"OPC1":"2 Nefi 28:7-9",
+"OPC2":"1 Nefi 28:7-9",
+"OPC3":"Alma 1:5-6",
+"OPC4":"3 Nefi 4:2-4",
+"RESP":"2 Nefi 28:7-9"
+},
+{
+"pregunta":"Que es un Rameúmptom",
+"OPC1":"Una alta plataforma",
+"OPC2":"Un altar",
+"OPC3":"Donde los zoramitas repetian oraciones",
+"OPC4":"Todas ellas",
+"RESP":"Todas ellas"
+},
+{
+"pregunta":"Quién exigio una señal a Alma Hijo?",
+"OPC1":"Korihor",
+"OPC2":"Nehor",
+"OPC3":"Zoram",
+"OPC4":"Amulek",
+"RESP":"Korihor"
+},
+{
+"pregunta":"Cuál es el capitulo mas largo en el Libro de Mormon (Número de Versículos)",
+"OPC1":"Jacob 5",
+"OPC2":"Alma 5",
+"OPC3":"3 Nefi 20",
+"OPC4":"1 Nefi 10",
+"RESP":"Jacob 5"
+}
+]

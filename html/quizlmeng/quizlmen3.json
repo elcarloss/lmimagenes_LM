@@ -1,0 +1,82 @@
+[
+{
+"pregunta":"Who was Nephi's father-in-law?",
+"OPC1":"Joseph",
+"OPC2":"Zoram",
+"OPC3":"Zedekiah",
+"OPC4":"Ishmael",
+"RESP":"Ishmael"
+},
+{
+"pregunta":"He helped alma the younger to destroy the church, was visited by an angel and repented serving a 14-year mission?",
+"OPC1":"Helaman",
+"OPC2":"Ammon",
+"OPC3":"Mosiah",
+"OPC4":"Alma",
+"RESP":"Ammon"
+},
+{
+"pregunta":"How old was Mormon when he took over the Nephite armies??",
+"OPC1":"14",
+"OPC2":"15",
+"OPC3":"16",
+"OPC4":"17",
+"RESP":"16"
+},
+{
+"pregunta":"He was the last Jaredite king and last survivor of the Jaredite nation?",
+"OPC1":"Chemish",
+"OPC2":"Corianton",
+"OPC3":"Nehor",
+"OPC4":"Coriamtumr",
+"RESP":"Coriamtumr"
+},
+{
+"pregunta": "In the book of mosiah, we read about a righteous king who taught people from a tower, he was?",
+"OPC1":"Nephi",
+"OPC2":"Benjamin",
+"OPC3":"Sam",
+"OPC4":"Mosiah",
+"RESP":"Benjamin"
+},
+{
+"pregunta":"Of the following, who was not a son of Mosiah?",
+"OPC1":"Aaron",
+"OPC2":"Enos",
+"OPC3":"Omner",
+"OPC4":"Himni",
+"RESP":"Enos"
+},
+{
+"pregunta":"Who was the first son of Jared's brother?",
+"OPC1":"Kohor",
+"OPC2":"Jared",
+"OPC3":"Pagag",
+"OPC4":"Mahonri",
+"RESP":"Pagag"
+},
+{
+"pregunta":"Jesus Christ showed himself to the Nephi people in what place?",
+"OPC1":"Zarahemla",
+"OPC2":"Land of Bountiful",
+"OPC3":"Land of desolation",
+"OPC4":"The North",
+"RESP":"Land of Bountiful"
+},
+{
+"pregunta":"Who was the last prophet to write in the Book of Mormon?",
+"OPC1":"Mormon",
+"OPC2":"Moroni",
+"OPC3":"Mosiah",
+"OPC4":"Helaman",
+"RESP":"Moroni"
+},
+{
+"pregunta":"He suffered death by fire and converted a person who would later be a prophet?",
+"OPC1":"Alma",
+"OPC2":"Noe",
+"OPC3":"Abinadi",
+"OPC4":"Corianton",
+"RESP":"Abinadi"
+}
+]
